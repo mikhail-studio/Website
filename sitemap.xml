@@ -1,8 +1,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://mikhailstudio.ru</loc>
+		<loc>https://mikhailstudio.ru/index</loc>
 	</url>
 	<url>
 		<loc>https://mikhailstudio.ru/bedinnether</loc>
+	</url>
+	<url>
+		<loc>https://mikhailstudio.ru/bedinnether-buy</loc>
 	</url>
 </urlset>
